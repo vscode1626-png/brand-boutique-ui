@@ -36,7 +36,7 @@ const Header: React.FC = () => {
             to="/"
             className="font-display text-2xl md:text-3xl font-medium tracking-tight"
           >
-            ATELIER
+            RICH CLUB
           </Link>
 
           {/* Desktop Navigation */}

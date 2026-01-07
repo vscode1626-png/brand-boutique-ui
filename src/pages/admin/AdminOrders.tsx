@@ -21,7 +21,7 @@ const AdminOrders: React.FC = () => {
     const todayOrders = mockOrders.length;
     const todayRevenue = mockOrders.reduce((sum, o) => sum + o.total, 0);
     
-    const message = `📊 *ATELIER Daily Summary*
+    const message = `📊 *RICH CLUB Daily Summary*
 📅 Date: ${today}
 
 📦 *Orders Today:* ${todayOrders}

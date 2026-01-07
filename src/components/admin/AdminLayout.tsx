@@ -34,7 +34,7 @@ const AdminLayout: React.FC = () => {
         {/* Logo */}
         <div className="h-16 flex items-center px-6 border-b border-primary-foreground/10">
           <Link to="/" className="font-display text-xl font-medium tracking-tight">
-            ATELIER
+            RICH CLUB
           </Link>
           <span className="ml-2 text-xs bg-accent text-accent-foreground px-2 py-0.5">Admin</span>
         </div>

@@ -34,7 +34,7 @@ const AdminLogin: React.FC = () => {
         {/* Logo */}
         <div className="text-center mb-10">
           <h1 className="font-display text-3xl text-primary-foreground font-medium tracking-tight mb-2">
-            ATELIER
+            RICH CLUB
           </h1>
           <p className="text-sm text-primary-foreground/60">Admin Panel</p>
         </div>
@@ -55,7 +55,7 @@ const AdminLogin: React.FC = () => {
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 className="form-input"
-                placeholder="admin@atelier.com"
+                placeholder="admin@richclub.com"
               />
             </div>
 

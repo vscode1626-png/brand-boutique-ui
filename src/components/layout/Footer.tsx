@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
           {/* Brand */}
           <div className="md:col-span-1">
             <Link to="/" className="font-display text-2xl font-medium tracking-tight">
-              ATELIER
+              RICH CLUB
             </Link>
             <p className="mt-4 text-sm text-primary-foreground/70 leading-relaxed">
               Contemporary clothing for the modern individual. Quality craftsmanship meets timeless design.
@@ -66,7 +66,7 @@ const Footer: React.FC = () => {
           <div>
             <h4 className="text-sm font-medium tracking-wider uppercase mb-4">Contact</h4>
             <ul className="space-y-3 text-sm text-primary-foreground/70">
-              <li>contact@atelier.com</li>
+              <li>contact@richclub.com</li>
               <li>+91 98765 43210</li>
               <li>Mon - Sat: 10:00 - 19:00</li>
             </ul>
@@ -75,7 +75,7 @@ const Footer: React.FC = () => {
 
         <div className="mt-16 pt-8 border-t border-primary-foreground/10 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-primary-foreground/50">
-            © 2025 ATELIER. All rights reserved.
+            © 2025 RICH CLUB. All rights reserved.
           </p>
           <div className="flex gap-6 text-sm text-primary-foreground/50">
             <a href="#" className="hover:text-primary-foreground transition-colors">Privacy Policy</a>

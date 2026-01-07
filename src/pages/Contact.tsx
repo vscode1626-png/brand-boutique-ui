@@ -5,7 +5,7 @@ import Layout from '@/components/layout/Layout';
 
 const Contact: React.FC = () => {
   const generateWhatsAppLink = () => {
-    const message = encodeURIComponent('Hi! I have a question about ATELIER products.');
+    const message = encodeURIComponent('Hi! I have a question about RICH CLUB products.');
     return `https://wa.me/919876543210?text=${message}`;
   };
 
@@ -66,8 +66,8 @@ const Contact: React.FC = () => {
                   <div>
                     <h4 className="font-medium mb-1">Email Us</h4>
                     <p className="text-muted-foreground text-sm">
-                      contact@atelier.com<br />
-                      support@atelier.com
+                      contact@richclub.com<br />
+                      support@richclub.com
                     </p>
                   </div>
                 </div>
